@@ -1,5 +1,17 @@
 /* app css stylesheet */
 
+body {
+  background-color: black;
+  font-family: 'Venir', sans-serif;
+  color: gray;
+}
+
+.launch-text {
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+}
+
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
